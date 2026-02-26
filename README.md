@@ -47,7 +47,8 @@ Removed redundant promo_code_used column (100% identical to discount_applied)
 
 
 ## 🔍 SQL Analysis — 10 Business Questions
-<img width="481" height="265" alt="image" src="https://github.com/user-attachments/assets/12750a4f-e7cc-48bf-8a2d-b837d0349b2b" />
+<img width="792" height="265" alt="image" src="https://github.com/user-attachments/assets/4af0e0ad-4297-4660-bf05-dd92c9de3998" />
+
 
 ## 📊 Dashboard Highlights
 <img width="1350" height="737" alt="image" src="https://github.com/user-attachments/assets/3f0a2338-eb3a-4967-b994-2a63767ddd18" />
